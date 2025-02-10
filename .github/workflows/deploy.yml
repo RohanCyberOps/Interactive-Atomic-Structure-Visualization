@@ -35,3 +35,8 @@ jobs:
         run: |
           echo "Deploying the app..."
           # Add deployment steps here (e.g., Firebase, Vercel, Netlify)
+          
+"scripts": {
+  "test": "jest"
+}
+
