@@ -1,4 +1,4 @@
-name: 🚀 Deploy Interactive Atomic Structure Visualization
+name: CI
 
 on:
   push:
@@ -13,30 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout Code
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: ⚡ Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '16'
 
-      - name: 📦 Install Dependencies
-        run: npm install
+    - name: Install dependencies
+      run: npm install
 
-      - name: 🏗️ Build Project
-        run: npm run build
-
-      - name: ✅ Run Tests
-        run: npm test
-
-      - name: 🚀 Deploy (Optional)
-        if: success()
-        run: |
-          echo "Deploying the app..."
-          # Add deployment steps here (e.g., Firebase, Vercel, Netlify)
-          
-"scripts": {
-  "test": "jest"
-}
-
+    - name: Run tests
+      run: npm test
