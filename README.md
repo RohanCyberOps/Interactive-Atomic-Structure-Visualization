@@ -1,6 +1,6 @@
 # 🌟 Interactive Atomic Structure Visualization 🧪
 
-![Atomic Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bohr_atom_model.svg/1200px-Bohr_atom_model.svg.png)
+![Atomic Structure](https://media.giphy.com/media/13twUEuUnCrEju/giphy.gif?cid=790b76118gh7v5hna7ztr3xmc2xvx4vcaa36uv9y4qfp3crz&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## 🌍 Overview
 Welcome to **Interactive Atomic Structure Visualization**, where atomic science meets stunning interactivity! 🏆 This project allows users to explore atomic structures, visualize electron configurations, and analyze element properties in an engaging and interactive manner.
