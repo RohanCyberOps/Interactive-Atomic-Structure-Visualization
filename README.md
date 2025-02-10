@@ -1,29 +1,23 @@
-# 🚀 Interactive Atomic Structure Visualization 🌟
+# 🌟 Interactive Atomic Structure Visualization 🧪
 
+![Atomic Structure](ui1.png)                                                                             ![Atomic Structure](ui2.png)
 ## 🌍 Overview
-Welcome to **Interactive Atomic Structure Visualization**, a cutting-edge tool designed to bring atomic structures to life! This project allows users to visually explore elements, their electron configurations, shells, isotopes, and other fascinating properties in an engaging and interactive manner.
+Welcome to **Interactive Atomic Structure Visualization**, where atomic science meets stunning interactivity! 🏆 This project allows users to explore atomic structures, visualize electron configurations, and analyze element properties in an engaging and interactive manner.
 
 ## ✨ Features
-🔬 **3D Atomic Visualization** – Immerse yourself in interactive atomic models.
-
-⚛ **Electron Configuration Viewer** – Observe electron distribution across energy levels.
-
-📊 **Element Information Hub** – Instantly access atomic number, mass, symbol, category, and isotopic data.
-
-🎮 **User Interactivity** – Click on elements to reveal their unique structures dynamically.
-
-🎨 **Modern UI & Smooth Animations** – Enjoy a sleek, responsive interface powered by fluid transitions.
+- 🔬 **3D Atomic Visualization** – Interact with dynamic 3D atomic models.
+- ⚛ **Electron Configuration Viewer** – Observe electron distribution across orbitals.
+- 📊 **Element Information Hub** – Instantly access atomic number, mass, symbol, category, and isotopic data.
+- 🎮 **User Interactivity** – Click on elements to dynamically reveal unique structures.
+- 🎨 **Modern UI & Smooth Animations** – Enjoy a sleek, responsive interface with fluid animations.
+- 🔥 **Dark Mode Support** – Switch between light and dark themes effortlessly.
 
 ## 🛠 Technologies Used
-🚀 **TypeScript** – Ensuring structured and scalable development.
-
-⚡ **React.js** – Powering interactive UI components.
-
-🎭 **Three.js** – Enabling 3D visualization of atomic structures.
-
-🎨 **Tailwind CSS** – Providing a modern and responsive design.
-
-📂 **Data Source** – Atomic element details stored in `elements.ts`.
+- 🚀 **TypeScript** – Ensuring structured and scalable development.
+- ⚡ **React.js** – Powering interactive UI components.
+- 🎭 **Three.js** – Enabling 3D visualization of atomic structures.
+- 🎨 **Tailwind CSS** – Providing a modern and responsive design.
+- 📂 **Data Source** – Atomic element details stored in `elements.ts`.
 
 ## 🚀 Installation Guide
 1. **Clone the Repository** 📂
@@ -42,13 +36,11 @@ Welcome to **Interactive Atomic Structure Visualization**, a cutting-edge tool d
 4. Open 🔗 [http://localhost:3000](http://localhost:3000) in your browser and dive into the atomic world!
 
 ## 🎮 How to Use
-✅ Select an element from the interactive periodic table.
-
-✅ Explore its 3D atomic structure and electron configurations.
-
-✅ Hover over shells to unveil detailed electron distributions.
-
-✅ Get real-time element properties and insights.
+✅ **Select an element** from the interactive periodic table.
+✅ **Explore its 3D atomic structure** and electron configurations.
+✅ **Hover over shells** to unveil detailed electron distributions.
+✅ **Click on isotopes** to analyze their abundance and properties.
+✅ **Switch between visualization modes** for enhanced analysis.
 
 ## 🤝 Contributing
 We welcome contributions! Here’s how you can help:
@@ -59,7 +51,7 @@ We welcome contributions! Here’s how you can help:
 5. **Open a Pull Request** 🔃
 
 ## 📜 License
-This project is open-source and licensed under the **MIT License**. Feel free to use and enhance it! 🔓
+This project is open-source and licensed under the **MIT License**. Feel free to use, enhance, and share it! 🔓
 
 ## 📬 Contact & Support
 Got questions or ideas? Let's connect! 🤝
