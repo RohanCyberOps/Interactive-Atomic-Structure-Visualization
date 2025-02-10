@@ -1,6 +1,7 @@
 # 🌟 Interactive Atomic Structure Visualization 🧪
 
-![Atomic Structure](ui1.png)                                                                             ![Atomic Structure](ui2.png)
+![Atomic Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bohr_atom_model.svg/1200px-Bohr_atom_model.svg.png)
+
 ## 🌍 Overview
 Welcome to **Interactive Atomic Structure Visualization**, where atomic science meets stunning interactivity! 🏆 This project allows users to explore atomic structures, visualize electron configurations, and analyze element properties in an engaging and interactive manner.
 
@@ -11,6 +12,16 @@ Welcome to **Interactive Atomic Structure Visualization**, where atomic science 
 - 🎮 **User Interactivity** – Click on elements to dynamically reveal unique structures.
 - 🎨 **Modern UI & Smooth Animations** – Enjoy a sleek, responsive interface with fluid animations.
 - 🔥 **Dark Mode Support** – Switch between light and dark themes effortlessly.
+
+## 📸 Demo
+
+Helium
+
+![Atomic Structure](ui1.png)     
+
+ Oganesson
+
+![Atomic Structure](ui2.png)
 
 ## 🛠 Technologies Used
 - 🚀 **TypeScript** – Ensuring structured and scalable development.
