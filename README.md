@@ -1,5 +1,4 @@
-# 🌟 Interactive Atomic Structure Visualization 🧪
-
+#  Interactive Atomic Structure Visualization 
 ![Atomic Structure](https://media.giphy.com/media/13twUEuUnCrEju/giphy.gif?cid=790b76118gh7v5hna7ztr3xmc2xvx4vcaa36uv9y4qfp3crz&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## 🌍 Overview
